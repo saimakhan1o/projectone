@@ -1,0 +1,8 @@
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe.config
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.exe
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\bin\Debug\NumberToWord.pdb
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.AssemblyReference.cache
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.SuggestedBindingRedirects.cache
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.csproj.CoreCompileInputs.cache
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.exe
+C:\Users\saima_pxca\source\repos\NumberToWord\NumberToWord\obj\Debug\NumberToWord.pdb
